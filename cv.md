@@ -44,7 +44,7 @@ help people making their life as easy as possible. Therefore I can say that I ha
 
 ***
 
-### Language
+### Languages
 
 * Uzbek (native)
 * English B2 **(IELTS 6.5)**
