@@ -1,1 +1,1 @@
-### https://shokhakhaltaev.github.io/rsschool-cv/cv
+### https://shokhakhaltaev.github.io/rsschool-cv/index.html
